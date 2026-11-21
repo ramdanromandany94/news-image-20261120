@@ -1,8 +1,8 @@
 # The World in One Image — 20 November 2026
 
-[![competition](https://img.shields.io/badge/make.fun-news--image--20261120-blue)](https://make.fun/bounty/news-image-20261120)
-[![harness](https://img.shields.io/badge/harness-program%2Fv1-green)](https://make.fun)
-[![pot](https://img.shields.io/badge/pot-%24250%20USDC-gold)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/ramdanromandany94/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/ramdanromandany94/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 Entry for the make.fun bounty **"Sum up 20 November's world news in one image"**
 (`news-image-20261120`). One image, one page: a newspaper front page that
